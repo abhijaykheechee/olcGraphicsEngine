@@ -1,0 +1,11 @@
+﻿  Graphite.cpp
+C:\Users\abhij\GraphiteEngine3D\Graphite\Graphite\olcConsoleGameEngine.h(784,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Graphite.cpp')
+  
+C:\Users\abhij\GraphiteEngine3D\Graphite\Graphite\Graphite.cpp(311,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\abhij\GraphiteEngine3D\Graphite\Graphite\Graphite.cpp(311,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\abhij\GraphiteEngine3D\Graphite\Graphite\Graphite.cpp(310,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\abhij\GraphiteEngine3D\Graphite\Graphite\Graphite.cpp(310,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\abhij\GraphiteEngine3D\Graphite\Graphite\Graphite.cpp(309,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\abhij\GraphiteEngine3D\Graphite\Graphite\Graphite.cpp(309,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Graphite.vcxproj -> C:\Users\abhij\GraphiteEngine3D\Graphite\x64\Debug\Graphite.exe
