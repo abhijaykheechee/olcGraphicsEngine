@@ -264,7 +264,7 @@ public:
 				//get dot product of normal against light dir
 				float dp = normal.x * light_direction.x + normal.y * light_direction.y + normal.z * light_direction.z;
 
-				//"shade" with greyscale and send info to triangle
+				//shade with greyscale and send info to triangle
 				CHAR_INFO c = GetColour(dp);
 				triTranslated.col = c.Attributes;
 				triTranslated.sym = c.Char.UnicodeChar;
